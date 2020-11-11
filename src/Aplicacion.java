@@ -12,6 +12,8 @@ public class Aplicacion {
 		int mult= milogica.multiplicar(2, 4);
 		JOptionPane.showMessageDialog(null, mult);
 		
+		//añadimos comentario
+		
 		
 		
 	}
